@@ -12,5 +12,5 @@ packaging
 Pillow
 pluggy
 pytest
-request
+requests
 urllib3
