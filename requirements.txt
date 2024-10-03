@@ -12,7 +12,6 @@ packaging
 Pillow
 pluggy
 pytest
-pytest-custom-exit-code
 pytest-metadata
 request
 urllib3
