@@ -12,6 +12,5 @@ packaging
 Pillow
 pluggy
 pytest
-pytest-metadata
 request
 urllib3
